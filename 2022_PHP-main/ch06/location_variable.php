@@ -2,7 +2,7 @@
     function make_ten()
     {
         global $i;
-        $i = $i + 10;
+        $i = 10;
     }
 
     $i = 5;
